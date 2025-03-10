@@ -1,0 +1,2 @@
+"Pessimistic Locking: Bloquea el registro antes de modificarlo" 
+"Optimistic Locking: Permite modificar pero verifica que no haya cambios previos" 

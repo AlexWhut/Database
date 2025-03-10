@@ -1,0 +1,3 @@
+"INSERT: Agrega registros..." 
+"UPDATE: Modifica registros existentes..." 
+"DELETE: Elimina registros..." 
